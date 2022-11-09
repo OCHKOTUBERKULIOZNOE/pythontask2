@@ -1,4 +1,4 @@
-##PythonTask 2
+## PythonTask 2
 # Selenium Screenshoter
 
 1) Программе указывается название сайта (например https://google.com)
